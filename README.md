@@ -20,4 +20,3 @@
 
 ## DATABASE (DB)
 ![HRMS SCHEMA in PostgreSql](https://github.com/Hilmi51/hrms_frontend/blob/master/src/image/Ads%C4%B1z.png)
- <img src="https://github.com/Hilmi51/hrms_frontend/blob/master/src/image/Ads%C4%B1z.png" />
